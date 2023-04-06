@@ -251,7 +251,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
             <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/003.png"  />
+              <img class="icon" src="./img/main/003.png"  />
             </div>
           </div>
 
@@ -279,7 +279,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
             <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/003.png"  />
+              <img class="icon" src="./img/main/003.png"  />
             </div>
           </div>
 
@@ -308,7 +308,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
             <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/003.png"  />
+              <img class="icon" src="./img/main/003.png"  />
             </div>
           </div>
 
@@ -355,7 +355,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
           <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/003.png"  />
+              <img class="icon" src="./img/main/003.png"  />
             </div>
           </div>
           <div class="product-info">
@@ -393,7 +393,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
             <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/cart_icon.png"  />
+              <img class="icon" src="./img/main/cart_icon.png"  />
             </div>
           </div>
 
@@ -422,7 +422,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
             <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/cart_icon.png"  />
+              <img class="icon" src="./img/main/cart_icon.png"  />
             </div>
           </div>
 
@@ -451,7 +451,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
             <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/cart_icon.png"  />
+              <img class="icon" src="./img/main/cart_icon.png"  />
             </div>
           </div>
 
@@ -479,7 +479,7 @@ integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChi
           <div class="pdImg">
             <img src="https://via.placeholder.com/314x314" alt="상품 이미지" />
             <div class="cart_icon">
-              <img class="icon" src="./image/cart_icon.png"  />
+              <img class="icon" src="./img/main/cart_icon.png"  />
             </div>
           </div>
 
